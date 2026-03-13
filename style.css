@@ -92,7 +92,7 @@ body {
     color: var(--black-text);
     /* استدعاء صورتك الجديدة */
     background: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), 
-                url('image/istockphoto-1390665987-612x612.jpg') center/cover no-repeat;
+                url('image/hero-bg.jpg') center/cover no-repeat;
     background-attachment: fixed;
 }
 
